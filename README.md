@@ -2,6 +2,7 @@
 
 
  ##Experience
+ 
 Vaccination Report Analysis: I have worked on projects to analyze vaccination reports using Microsoft Excel, PowerPoint, and PowerBI. The analysis identifies trends and patterns in the data, which helps inform critical decisions on the movement of vaccines in and out of the cold chain.
 
 Customer Churn Analysis: A project that  I used SQL and DAX to analyze customer churn data. The analysis identifies factors that contribute to customer churn, which can help businesses improve their retention rates.
@@ -12,7 +13,9 @@ Sales Performance Analysis: In this project, I used Power to visualize sales dat
 Wrote a research paper on the impact of social media on political campaigns.
 
 This repository contains a collection of projects that I have worked on. The projects showcase my skills in data analysis, data visualization, and reporting.
+
 ##Projects 
+
 Due to confidentiality and privacy considerations, I am unable to share previous work deliverables. Instead, I can showcase projects and assignments that highlight my abilities.
 
 [research project](https://github.com/bellaTHEanalyst/school-project-chapter-4-analysis-of-data-and-chapter-5-)
