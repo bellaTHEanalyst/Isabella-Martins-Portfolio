@@ -19,7 +19,7 @@
 
  ## Experience
  
-Vaccination Report Analysis: I have worked on projects to analyze vaccination reports using Microsoft Excel, PowerPoint, and PowerBI. The analysis identifies trends and patterns in the data, which helps inform critical decisions on the movement of vaccines in and out of the cold chain.
+- Vaccination Report Analysis: I have worked on projects to analyze vaccination reports using Microsoft Excel, PowerPoint, and PowerBI. The analysis identifies trends and patterns in the data, which helps inform critical decisions on the movement of vaccines in and out of the cold chain.
 
 -  Customer Churn Analysis: A project that  I used SQL and DAX to analyze customer churn data. The analysis identifies factors that contribute to customer churn, which can help businesses improve their retention rates.
 
