@@ -29,6 +29,6 @@
 Wrote a research paper on the impact of social media on political campaigns.
 
  
-##certification 
+## certification 
 
 [click here](https://github.com/bellaTHEanalyst/certifications)
