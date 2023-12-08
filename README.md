@@ -5,9 +5,12 @@
 ## Projects
 
 ### Due to confidentiality and privacy considerations, I am unable to share previous work deliverables. Instead, I can showcase projects and assignments that highlight my abilities.
+
 [PWC Internship](https://github.com/bellaTHEanalyst/call-centre-Analysis.-)
 
+
 [research project](https://github.com/bellaTHEanalyst/school-project-chapter-4-analysis-of-data-and-chapter-5-)
+
 
 [sales analysis](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project)
 
