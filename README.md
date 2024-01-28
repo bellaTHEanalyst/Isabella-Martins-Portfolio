@@ -6,7 +6,8 @@
 
 ### Due to confidentiality and privacy considerations, I am unable to share previous work deliverables. Instead, I can showcase projects and assignments that highlight my abilities.
 
-[Analyzing the knowlegde and practice of exclusive breastfeeding among mothers]
+[Analyzing the knowlegde and practice of exclusive breastfeeding among mothers](https://github.com/bellaTHEanalyst/My-Thesis)
+
 [Analyzing Students' Mental Health in SQL](https://github.com/bellaTHEanalyst/MentalHealth_SQL_project)
 
 [TASK INTERNCAREER](https://github.com/bellaTHEanalyst/Global_Terrorism_Report)
