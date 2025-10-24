@@ -3,6 +3,7 @@
 ### This repository contains a collection of projects that I have worked on. The projects showcase my skills in data analysis, data visualization, and reporting.
 
 ## Projects
+[**Supply-Chain-Analytics-A-Data-Driven-Approach-to-Eliminate-Backlogs**](https://github.com/bellaTHEanalyst/Supply-Chain-Analytics-A-Data-Driven-Approach-to-Eliminate-Backlogs/tree/main)
 
 [𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐧𝐠 𝐁𝐢𝐫𝐭𝐡 𝐖𝐞𝐢𝐠𝐡𝐭 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐢𝐞𝐬 𝐔𝐬𝐢𝐧𝐠 𝐌𝐚𝐭𝐞𝐫𝐧𝐚𝐥 𝐇𝐞𝐚𝐥𝐭𝐡 𝐈𝐧𝐝𝐢𝐜𝐚𝐭𝐨𝐫𝐬: 𝐮𝐬𝐢𝐧𝐠 𝐚 𝐥𝐢𝐧𝐞𝐚𝐫 𝐫𝐞𝐠𝐫𝐞𝐬𝐬𝐢𝐨𝐧 𝐦𝐨𝐝𝐞𝐥 𝐢𝐧 𝐑.](https://github.com/bellaTHEanalyst/Predicting-Birth-Weight-Categories-Using-Maternal-Health-Indicators/tree/main)
 
@@ -10,7 +11,7 @@
 
 [Analyzing Students' Mental Health in SQL](https://github.com/bellaTHEanalyst/MentalHealth_SQL_project)
 
-[TASK INTERNCAREER](https://github.com/bellaTHEanalyst/Global_Terrorism_Report)
+[INTERNCAREER Virtual Internship](https://github.com/bellaTHEanalyst/Global_Terrorism_Report)
 
 [PWC Internship](https://github.com/bellaTHEanalyst/call-centre-Analysis.-)
 
