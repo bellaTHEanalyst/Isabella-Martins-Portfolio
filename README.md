@@ -7,6 +7,8 @@
 
 [𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐧𝐠 𝐁𝐢𝐫𝐭𝐡 𝐖𝐞𝐢𝐠𝐡𝐭 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐢𝐞𝐬 𝐔𝐬𝐢𝐧𝐠 𝐌𝐚𝐭𝐞𝐫𝐧𝐚𝐥 𝐇𝐞𝐚𝐥𝐭𝐡 𝐈𝐧𝐝𝐢𝐜𝐚𝐭𝐨𝐫𝐬: 𝐮𝐬𝐢𝐧𝐠 𝐚 𝐥𝐢𝐧𝐞𝐚𝐫 𝐫𝐞𝐠𝐫𝐞𝐬𝐬𝐢𝐨𝐧 𝐦𝐨𝐝𝐞𝐥 𝐢𝐧 𝐑.](https://github.com/bellaTHEanalyst/Predicting-Birth-Weight-Categories-Using-Maternal-Health-Indicators/tree/main)
 
+[**Leveraging Social Determinants of Health (SDOH) Analytics to Address Healthcare Disparities**](https://github.com/bellaTHEanalyst/Leveraging-Social-Determinants-of-Health-SDOH-Analytics-to-Address-Healthcare-Disparities/tree/main)
+
 [Analyzing the knowlegde and practice of exclusive breastfeeding among mothers](https://github.com/bellaTHEanalyst/My-Thesis)
 
 [Analyzing Students' Mental Health in SQL](https://github.com/bellaTHEanalyst/MentalHealth_SQL_project)
